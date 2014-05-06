@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Controllers/NickCompletinStatus.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Controllers/NickCompletinStatus.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Controllers/NickCompletinStatus.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Controllers/NickCompletinStatus.h

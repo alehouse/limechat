@@ -1,9 +1,9 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Dialogs/DCC/DCCSender.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Dialogs/DCC/DCCSender.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Dialogs/DCC/DCCFileTransferCell.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Library/TCPServer.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Library/TCPClient.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Library/AsyncSocket.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Preferences/Preferences.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Controllers/Notifications/NotificationController.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Dialogs/DCC/DCCSender.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Dialogs/DCC/DCCSender.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Dialogs/DCC/DCCFileTransferCell.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Library/TCPServer.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Library/TCPClient.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Library/AsyncSocket.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Preferences/Preferences.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Controllers/Notifications/NotificationController.h

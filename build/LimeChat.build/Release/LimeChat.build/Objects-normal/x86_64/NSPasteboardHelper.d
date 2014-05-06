@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSPasteboardHelper.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSPasteboardHelper.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSPasteboardHelper.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSPasteboardHelper.h

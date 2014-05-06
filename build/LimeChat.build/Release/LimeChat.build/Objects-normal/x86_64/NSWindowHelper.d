@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSWindowHelper.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSWindowHelper.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSRectHelper.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSWindowHelper.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSWindowHelper.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSRectHelper.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/UnicodeHelper.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/UnicodeHelper.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/UnicodeHelper.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/UnicodeHelper.h

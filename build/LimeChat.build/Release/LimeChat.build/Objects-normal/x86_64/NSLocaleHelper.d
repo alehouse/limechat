@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSLocaleHelper.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/NSLocaleHelper.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSLocaleHelper.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/NSLocaleHelper.h

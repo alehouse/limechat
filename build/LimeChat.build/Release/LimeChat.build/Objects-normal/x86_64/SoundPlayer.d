@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/SoundPlayer.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/Helpers/SoundPlayer.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/SoundPlayer.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/Helpers/SoundPlayer.h

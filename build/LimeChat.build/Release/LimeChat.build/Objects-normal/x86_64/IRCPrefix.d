@@ -1,2 +1,2 @@
-dependencies: /Volumes/SHARED/alehouse/limechat/Classes/IRC/IRCPrefix.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/IRC/IRCPrefix.h
+dependencies: /Volumes/SHARED/alehouse/Limechat/Classes/IRC/IRCPrefix.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/IRC/IRCPrefix.h

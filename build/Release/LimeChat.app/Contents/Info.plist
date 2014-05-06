@@ -9,11 +9,11 @@
 	<key>CFBundleExecutable</key>
 	<string>LimeChat</string>
 	<key>CFBundleGetInfoString</key>
-	<string>LimeChat for Mac, Copyright 2007-2013 Satoshi Nakagawa</string>
+	<string>LimeChat for Mac, Copyright 2007-2014 Satoshi Nakagawa</string>
 	<key>CFBundleIconFile</key>
 	<string>application.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.limechat.LimeChat-debug</string>
+	<string>net.limechat.LimeChat</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -21,7 +21,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.39</string>
+	<string>2.40</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -37,21 +37,21 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.39</string>
+	<string>2.40</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>5A3005</string>
+	<string>5B130a</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>13A595</string>
+	<string>13C64</string>
 	<key>DTSDKName</key>
 	<string>macosx10.9</string>
 	<key>DTXcode</key>
-	<string>0502</string>
+	<string>0510</string>
 	<key>DTXcodeBuild</key>
-	<string>5A3005</string>
+	<string>5B130a</string>
 	<key>LCApplicationName</key>
 	<string>LimeChat for Mac</string>
 	<key>LSApplicationCategoryType</key>
@@ -61,7 +61,7 @@
 	<key>NSHighResolutionCapable</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright 2007-2013 Satoshi Nakagawa</string>
+	<string>Copyright 2007-2014 Satoshi Nakagawa</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>

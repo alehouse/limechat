@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/SHARED/alehouse/limechat/Classes/IRC/IRCSendingMessage.m \
-  /Volumes/SHARED/alehouse/limechat/Classes/IRC/IRCSendingMessage.h \
-  /Volumes/SHARED/alehouse/limechat/Classes/IRC/IRC.h
+  /Volumes/SHARED/alehouse/Limechat/Classes/IRC/IRCSendingMessage.m \
+  /Volumes/SHARED/alehouse/Limechat/Classes/IRC/IRCSendingMessage.h \
+  /Volumes/SHARED/alehouse/Limechat/Classes/IRC/IRC.h
