@@ -1177,7 +1177,6 @@
 				78E570CE0C1C306500BDF7EC /* Frameworks */,
 				7835DF2C0D0414020064916A /* CopyFiles */,
 				789AF7B41085A047006848B3 /* CopyFiles */,
-				78000B551817D729001935E2 /* ShellScript */,
 			);
 			buildRules = (
 			);
